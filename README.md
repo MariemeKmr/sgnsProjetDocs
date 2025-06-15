@@ -15,10 +15,6 @@ Ce projet a été réalisé dans le cadre d’un stage au Service Géologique Na
 - Gestion des droits d’accès selon le profil utilisateur
 - Historique des modifications et suivi des accès
 
-## Technologies utilisées
-> (Merci de compléter selon ton stack technique : framework, base de données, etc.)
-- Exemple : Laravel, Blade, MySQL, Bootstrap, etc.
-
 ## Installation
 1. Cloner le dépôt :
    ```bash
